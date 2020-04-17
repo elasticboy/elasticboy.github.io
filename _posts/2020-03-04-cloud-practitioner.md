@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "용어 정리"
+title:  "Cloud Practitioner"
 date:   2020-03-04T21:25:52-00:00
 author: dhp.lee
-categories: DevOps
+categories: AWS Certification
 tags: lorem
 ---
 
