@@ -8,7 +8,6 @@ tags: lorem
 ---
 
 
-
 This is just a dummy post. Lorem ipsum and all the rest.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
