@@ -3,7 +3,7 @@ layout: post
 title:  "Cloud Practitioner"
 date:   2020-03-04T21:25:52-00:00
 author: dhp.lee
-categories: AWS Certification
+categories: Aws
 tags: lorem
 ---
 
