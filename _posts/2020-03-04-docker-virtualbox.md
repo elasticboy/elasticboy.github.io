@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker 초기 설정"
+title:  "Docker Virtualbox 설정"
 date:   2020-03-04T19:25:52-00:00
 author: dhp.lee
 categories: DevOps
