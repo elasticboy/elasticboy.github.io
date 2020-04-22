@@ -211,5 +211,39 @@ Ip4, Ip6 양쪽에도 쓸 수 있다
 `Amazon CloudFormation`
 
 기본정보
-- 
+- AWS 리소스의 프로비저닝을 자동화하는 엔진 역할
+- 애플리케이션을 지원하는 관련 리소스 그룹을 반복적이고 예측 가능하게 하는 생성하는 작업을 자동화 및 간소화
+- Management Console, CLI, SDK/API
+<a href="/assets/cloud_practitioner/cloud_formation.png" data-lightbox="falcon9-small" data-title="Check out the Falcon 9 from SpaceX">
+  <img src="/assets/cloud_practitioner/cloud_formation.png" title="cloud_practitioner">
+</a>
+- 자동화가 관건
+- 완전관리형 서비스
+- 스택에서 리소스를 생성 업데이트 및 삭제
+
+`템플릿`
+- 프로비저닝할 리소스
+- 텍스트 파일
+- JSON 또는 YAML 형식
+- 자체 문서화 환경
+
+`스택`
+- 프로비저닝된 리소스를 스택이라고 함
+
+사용사례
+- 템플릿 파일을 일고(리소스에 대한 지침)
+- 스택을 생성하는 템플릿을 만듦
+- 스크립트를 작성하여 자동화
+- 스택 삭제시 모든 리소스가 삭제
+- 별도의 템플릿을 생성하여 스택을 모듈화
+- 정확하게 리소스 순서를 나열할 필요가 없다
+DepandsOn 속성 사용
+- 템플릿에 파라미터를 추가하면 다른 환경 가능
+<a href="/assets/cloud_practitioner/cloud_formation_template.png" data-lightbox="falcon9-small" data-title="Check out the Falcon 9 from SpaceX">
+  <img src="/assets/cloud_practitioner/cloud_formation_template.png" title="cloud_formation_template">
+</a>
+- Infrastructure as Code(각 템플릿은 인프라 자동화의 예)
+- 템플릿을 정해두면 각각의 서비스에 대한 권한이 있어야 함
+
+
 
