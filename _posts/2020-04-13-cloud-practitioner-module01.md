@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cloud Practitioner"
+title:  "Cloud Practitioner Module01"
 date:   2020-03-13T11:25:52-00:00
 author: dhp.lee
 categories: Aws
@@ -38,5 +38,3 @@ CloudFormation을 통해 일관적이고 템플릿화된 개발 환경 구축 �
 
 고객이 데이터가 실제로 위치하는 리전에 대한 모든 제어권 및 소유권을 보유하여 지역별 규정 준수 및 데이터 상주 요구 사항을 용이하게 충족
 클라우드 컴퓨팅 이전에는 인프라 보안 감사가 정기적으로 실시되는 수동 방식의 프로세스였으나, AWS 클라우드는 고객의 IT 리소스에 대한 구성 변경 사항을 지속적으로 모니터링할 수 있는 거버넌스 기능을 제공
-
-

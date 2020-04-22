@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cloud Practitioner"
+title:  "Cloud Practitioner Module03"
 date:   2020-04-14T09:25:52-00:00
 author: dhp.lee
 categories: Aws
