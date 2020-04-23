@@ -88,12 +88,14 @@ tags: lorem
 내결함성
 - 운영 상태를 유지할 수 있는 시스템 기능
 - 애플리케이션 구성 요서의 내장된 중복성 
+- SQS, S3, SimpleDB, RDS
 
 고가용성
 - 시스템이 일반적으로 작동하며 액세스할 수 있음
 - 가동 중단 시간이 최소화
 - 최소한의 인적 개입
 - 최소한의 사전 금융 투자
+- ELB, EIP, Route 53, Auto Scaling, CloudWatch
 
 웹사이트가 1분이라도 사용불가능하면 안됨
 
@@ -132,3 +134,4 @@ AWS
 - 사용량 피크를 효율적으로 처리
 - 미리 준비해야하는 리소스를 온디멘드 프로비저닝, 사용한 부분에만 요금을 부여
 - 트래핑 급증에 대비
+- VPC, Route53, CloudFront, ELB, Auto Scaling, EC2, ElastiCache, RDS, DynamoDB

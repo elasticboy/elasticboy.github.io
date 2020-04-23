@@ -97,19 +97,26 @@ GuestOS, Application, User Data
 사용자
 - AWS IAM 
 -- 자격 증명은 영구적
+-- 강제로 교체될때까지 명명된 사용자와 함께 함
 -- 시스템에서 명명된 사용자와 함께함
+-- 이름과 비밀번호
+-- 사용자는 운영자 사람일수도 있고 기계일 수 도 있다
+-- 영구적인 자격 증명 세트
 
 그룹
-- 사용자 모임
+- 사용자들의 모임
 
 역할
-- 정
-- 권한이 아니다!
-- 인증 방법임
+- 역할은 운영자, 사람일 수도 있고 기계일 수도 있다 
+- 사용자와 비슷 하지만 일시적이라는게 다르다
+- 권한이 아니다, 인증 방법임
 - 역할이 있는 자격증명은 일시적인 경향
 - 단순히 인증
+
+정책 문서
+- 권한은 정책 문서라고 하는 별도의 객체에서 발생
+- User, Group, Role, Policy Document에 모두 연결 가능
 
 <a href="/assets/cloud_practitioner/cloud_practitioner_iam.png" data-lightbox="falcon9-small" data-title="Check out the Falcon 9 from SpaceX">
   <img src="/assets/cloud_practitioner/cloud_practitioner_iam.png" title="cloud_practitioner">
 </a>
-
