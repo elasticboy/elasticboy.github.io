@@ -37,5 +37,9 @@ IOPS
 
 TCO 계산기
 
+governance, compliance, and risk auditing
 
+mitigration
+
+AMI
 
