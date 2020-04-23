@@ -43,3 +43,4 @@ Network Access Control List(NACL) act as a firewall on the subnet level, and Sec
 What is a main benefit of CloudFront?
 - Built-in DDoS protection
 
+https://free-braindumps.com/amazon/free-aws-certified-cloud-practitioner-braindumps.html?p=23
