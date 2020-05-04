@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: dd
+tags: devops
 ---
 
 ## Lorem Ipsum

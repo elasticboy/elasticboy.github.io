@@ -1,2 +1,4 @@
 aws:
   name: aws
+devops:
+  name: devops
