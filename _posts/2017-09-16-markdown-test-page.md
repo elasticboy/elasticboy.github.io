@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: aws tag3
+tags: aws
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
