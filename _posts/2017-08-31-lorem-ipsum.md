@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: aws
+tags: dd
 ---
 
 ## Lorem Ipsum
